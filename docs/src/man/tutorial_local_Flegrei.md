@@ -16,12 +16,12 @@ This tutorial visualizes available 3D data at a local volcano (Campi Flegrei cal
     - Battaglia, Jean, Aldo Zollo, Jean Virieux, and Dario Dello Iacono, 2008. Merging active and passive data sets in traveltime tomography: the case study of Campi Flegrei caldera (Southern Italy). Geophysical Prospecting 56, no. 4: 555-573.  doi:10.1111/j.1365-2478.2007.00687.x
 
 - Ambient noise tomography model:
-    - Battaglia, Jean, Aldo Zollo, Jean Virieux, and Dario Dello Iacono, 2008. Merging active and passive data sets in traveltime tomography: the case study of Campi Flegrei caldera (Southern Italy). Geophysical Prospecting 56, no. 4: 555-573.  doi:10.1111/j.1365-2478.2007.00687.x
+    - De Siena, L., Sammarco, C., Cornwell, D.G., La Rocca, M., Bianco, F., Zaccarelli, L. and Nakahara, H., 2018. Ambient seismic noise image of the structurally controlled heat and fluid feeder pathway at Campi Flegrei caldera. Geophysical Research Letters, 45(13), pp.6428-6436. doi:10.1029/2018GL078817
 
 
 ## Steps
 
-#### 1. Download all data for region
+#### 1. Download all data for the region
 
 You will need to download the zipped folder containing all files from [here](https://seafile.rlp.net/f/ff2c8424274c4d56b1f7/).
 
